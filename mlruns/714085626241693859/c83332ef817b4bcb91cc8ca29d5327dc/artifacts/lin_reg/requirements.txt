@@ -1,0 +1,6 @@
+mlflow
+cloudpickle==2.1.0
+enum34==1.1.10
+psutil==5.9.4
+scikit-learn==1.1.2
+typing-extensions==4.5.0
